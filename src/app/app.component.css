@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#tudo {
+  height: 775px;
+  width: 100%;
+  background-color: aqua;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+#cabecalho {
+  height: 84px;
+  width: 90%;
+  background-color: yellow;
+  border: 2px solid black;
+  margin: 10px 10px 10px 20px;
+  padding: 1px;
+}
+
+#logo {
+  height: 60px;
+  width: 150px;
+  background-color: pink;
+  float: left;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+
+#dados {
+  height: 60px;
+  width: 150px;
+  background-color: gold;
+  float: right;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+
+#assunto {
+  height: 550px;
+  width: 90%;
+  background-color: green;
+  border: 2px solid black;
+  margin: 10px 10px 10px 20px;
+}
+
+#menuhor {
+  height: 90%;
+  width: 160px;
+  background-color: fuchsia;
+  float: left;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+
+#menuver {
+  height: 100px;
+  width: 60%;
+  background-color: salmon;
+  float: right;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+
+#rodape {
+  height: 57px;
+  width: 89%;
+  background-color: red;
+  border: 2px solid black;
+  margin: 0px 10px 0px 25px;
+}
+
+#contatos {
+  height: 40px;
+  width: 100px;
+  background-color: khaki;
+  float: right;
+  border: 2px solid black;
+  margin: 10px 10px 0px 10px;
+}
